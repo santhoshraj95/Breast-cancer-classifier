@@ -16,8 +16,6 @@ from sklearn.metrics import (
 
 # Local project paths
 PROJECT_DIR = Path(__file__).resolve().parent
-    
-)
 MODEL_DIR = PROJECT_DIR / "model"
 SAMPLE_CSV = PROJECT_DIR / "test_data.csv"
 
