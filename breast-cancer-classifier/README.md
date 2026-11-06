@@ -52,7 +52,7 @@ All five classifiers were evaluated on the same held-out test data. For binary P
 
 ## Streamlit App
 
-- **Live app:** [PASTE YOUR STREAMLIT COMMUNITY CLOUD LINK HERE]
+- **Live app:** [(https://breast-cancer-classifiergit-gexdkxpu5jhbnxybeiarnz.streamlit.app/)]
 - Upload a labeled test CSV containing the required input features and target column.
 - Compare the evaluation metrics for the available saved models.
 - View a confusion matrix and classification report for a selected model.
